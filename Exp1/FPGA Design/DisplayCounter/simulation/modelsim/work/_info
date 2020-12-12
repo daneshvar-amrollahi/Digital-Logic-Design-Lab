@@ -1,0 +1,63 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Daneshvar\Desktop\DLDLab\Exp1\FPGA Design\SyncCounterFreqDiv\simulation\modelsim
+vcount113
+!i10b 1
+!s100 d=iTU<o6d6^aGdK`hMS4S2
+IM;P9_7i>e<ZDU=^mQcoOY3
+V?<eE^<ZOCDG1>909EPIai3
+Z1 dC:\Users\Daneshvar\Desktop\DLDLab\Exp1\FPGA Design\DisplayCounter\simulation\modelsim
+w1605897772
+Z2 8C:/Users/Daneshvar/Desktop/DLDLab/Exp1/FPGA Design/DisplayCounter/simulation/modelsim/count113.vo
+Z3 FC:/Users/Daneshvar/Desktop/DLDLab/Exp1/FPGA Design/DisplayCounter/simulation/modelsim/count113.vo
+L0 31
+Z4 OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1605897862.307000
+!s107 C:/Users/Daneshvar/Desktop/DLDLab/Exp1/FPGA Design/DisplayCounter/simulation/modelsim/count113.vo|
+Z5 !s90 -reportprogress|300|-work|work|C:/Users/Daneshvar/Desktop/DLDLab/Exp1/FPGA Design/DisplayCounter/simulation/modelsim/count113.vo|
+!s101 -O0
+Z6 o-work work -O0
+vcount113dispTB
+Z7 Ig]NNI9gSg3f54mPkPB;bI2
+Z8 V6V>4400bh]NPOJa;4ZIPb3
+R1
+Z9 w1605897847
+Z10 8C:/Users/Daneshvar/Desktop/DLDLab/Exp1/FPGA Design/DisplayCounter/simulation/modelsim/cnt113dispTB.v
+Z11 FC:/Users/Daneshvar/Desktop/DLDLab/Exp1/FPGA Design/DisplayCounter/simulation/modelsim/cnt113dispTB.v
+L0 18
+R4
+r1
+31
+Z12 !s108 1605897862.246000
+Z13 !s107 C:/Users/Daneshvar/Desktop/DLDLab/Exp1/FPGA Design/DisplayCounter/simulation/modelsim/cnt113dispTB.v|
+Z14 !s90 -reportprogress|300|-work|work|C:/Users/Daneshvar/Desktop/DLDLab/Exp1/FPGA Design/DisplayCounter/simulation/modelsim/cnt113dispTB.v|
+R6
+Z15 ncount113disp@t@b
+!i10b 1
+Z16 !s100 GZF8?lb[3LgUBa_[9CT9J3
+!s85 0
+!s101 -O0
+vring_oscillator
+Z17 !s100 YSD@SeIeC`DSF]W8h59W03
+Z18 I<9X<jmEggT^4fL5ijm7X=0
+Z19 V<P8h@;H1Hl?kGZnX[mPB;3
+R1
+R9
+R10
+R11
+L0 2
+R4
+r1
+31
+R12
+R13
+R14
+R6
+!i10b 1
+!s85 0
+!s101 -O0

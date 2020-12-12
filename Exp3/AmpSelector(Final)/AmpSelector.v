@@ -1,0 +1,15 @@
+module AmpSelector(in, select, out);
+    input [7:0] in;
+    input [1:0] select;
+    output reg [7:0] out;
+
+    always @(in or select) begin
+        out = 8'b0000_0000;
+        case (select)
+            2'b00: out = in;
+            2'b01: out = {{1{in[7]}}, in[7:1]};
+            2'b10: out = {{2{in[7]}}, in[7:2]};
+            2'b11: out = {{3{in[7]}}, in[7:3]};
+        endcase
+    end
+endmodule

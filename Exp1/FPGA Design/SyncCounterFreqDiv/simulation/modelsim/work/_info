@@ -1,0 +1,62 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Daneshvar\Desktop\DLDLab\Exp1\FPGA Design\Ring Oscillator
+vdiv113
+!i10b 1
+Z1 !s100 KAY__2UbI@XKU8c@?g5U10
+Z2 ILe8FDOe:]Rd13GoIkzFin3
+Z3 Vn3j<dETI1d>`@h<ATZOY01
+Z4 dC:\Users\Daneshvar\Desktop\DLDLab\Exp1\FPGA Design\SyncCounterFreqDiv\simulation\modelsim
+Z5 w1605287619
+Z6 8C:/Users/Daneshvar/Desktop/DLDLab/Exp1/FPGA Design/SyncCounterFreqDiv/simulation/modelsim/div113.vo
+Z7 FC:/Users/Daneshvar/Desktop/DLDLab/Exp1/FPGA Design/SyncCounterFreqDiv/simulation/modelsim/div113.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1605298539.159000
+!s107 C:/Users/Daneshvar/Desktop/DLDLab/Exp1/FPGA Design/SyncCounterFreqDiv/simulation/modelsim/div113.vo|
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/Daneshvar/Desktop/DLDLab/Exp1/FPGA Design/SyncCounterFreqDiv/simulation/modelsim/div113.vo|
+!s101 -O0
+Z10 o-work work -O0
+vdiv113tb
+Z11 !s100 TWU3TzH^f2>foXLAf?UDb1
+Z12 IjLJd1eZ64T1L8>Y`[3@:32
+Z13 VDazR:2_ZQEW>@=XYd9<h^2
+R4
+Z14 w1605298519
+Z15 8C:/Users/Daneshvar/Desktop/DLDLab/Exp1/FPGA Design/SyncCounterFreqDiv/simulation/modelsim/div113tb.v
+Z16 FC:/Users/Daneshvar/Desktop/DLDLab/Exp1/FPGA Design/SyncCounterFreqDiv/simulation/modelsim/div113tb.v
+L0 18
+R8
+r1
+31
+Z17 !s108 1605298539.100000
+Z18 !s107 C:/Users/Daneshvar/Desktop/DLDLab/Exp1/FPGA Design/SyncCounterFreqDiv/simulation/modelsim/div113tb.v|
+Z19 !s90 -reportprogress|300|-work|work|C:/Users/Daneshvar/Desktop/DLDLab/Exp1/FPGA Design/SyncCounterFreqDiv/simulation/modelsim/div113tb.v|
+R10
+!i10b 1
+!s85 0
+!s101 -O0
+vring_oscillator
+Z20 !s100 i[T6Xic>4M06F?FK_Gg?;0
+Z21 I3VL^0mP16FcXheNN<SD7R1
+Z22 V<P8h@;H1Hl?kGZnX[mPB;3
+R4
+R14
+R15
+R16
+L0 2
+R8
+r1
+31
+R17
+R18
+R19
+R10
+!i10b 1
+!s85 0
+!s101 -O0

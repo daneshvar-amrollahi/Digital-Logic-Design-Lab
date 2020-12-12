@@ -1,0 +1,43 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Daneshvar\Desktop\Computer Architecture\CA1
+vlm_555_tb
+!i10b 1
+Z1 !s100 <KMIN31jIJHG=2`Ch7AO=3
+Z2 I<fCW^imEBCEgX=B7ezbR_3
+Z3 VOT0C4Kj_`6XcbQM_<=2_G3
+Z4 dC:\Users\Daneshvar\Desktop\DLDLab\Exp1\LM555 Timer
+Z5 w1605107246
+Z6 8C:/Users/Daneshvar/Desktop/DLDLab/Exp1/LM555 Timer/lm_555_tb.v
+Z7 FC:/Users/Daneshvar/Desktop/DLDLab/Exp1/LM555 Timer/lm_555_tb.v
+L0 3
+Z8 OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1605108265.505000
+!s107 C:/Users/Daneshvar/Desktop/DLDLab/Exp1/LM555 Timer/lm_555_tb.v|
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/Daneshvar/Desktop/DLDLab/Exp1/LM555 Timer/lm_555_tb.v|
+!s101 -O0
+Z10 o-work work -O0
+vlm_555_timer
+Z11 !s100 eaZQdT9^ej:<BQUIn;^FB0
+Z12 I[ObgEO>THSNmUzW]VRRDH0
+Z13 V[[h2>@Rjh6>JK0b<ANb@Q2
+R4
+Z14 w1596481724
+Z15 8C:/Users/Daneshvar/Desktop/DLDLab/Exp1/LM555 Timer/lm_555_timer.v
+Z16 FC:/Users/Daneshvar/Desktop/DLDLab/Exp1/LM555 Timer/lm_555_timer.v
+L0 3
+R8
+r1
+31
+Z17 !s90 -reportprogress|300|-work|work|C:/Users/Daneshvar/Desktop/DLDLab/Exp1/LM555 Timer/lm_555_timer.v|
+R10
+!i10b 1
+!s85 0
+Z18 !s108 1605108265.457000
+Z19 !s107 C:/Users/Daneshvar/Desktop/DLDLab/Exp1/LM555 Timer/lm_555_timer.v|
+!s101 -O0

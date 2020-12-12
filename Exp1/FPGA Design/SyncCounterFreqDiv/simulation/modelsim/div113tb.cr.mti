@@ -1,0 +1,16 @@
+{C:/Users/Daneshvar/Desktop/DLDLab/Exp1/FPGA Design/SyncCounterFreqDiv/simulation/modelsim/div113.vo} {1 {vlog -work work {C:/Users/Daneshvar/Desktop/DLDLab/Exp1/FPGA Design/SyncCounterFreqDiv/simulation/modelsim/div113.vo}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module div113
+
+Top level modules:
+	div113
+
+} {} {}} {C:/Users/Daneshvar/Desktop/DLDLab/Exp1/FPGA Design/SyncCounterFreqDiv/simulation/modelsim/div113tb.v} {1 {vlog -work work {C:/Users/Daneshvar/Desktop/DLDLab/Exp1/FPGA Design/SyncCounterFreqDiv/simulation/modelsim/div113tb.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ring_oscillator
+-- Compiling module div113tb
+
+Top level modules:
+	div113tb
+
+} {} {}}

@@ -1,0 +1,24 @@
+# Reading C:/altera/13.0sp1/modelsim_ase/tcl/vsim/pref.tcl 
+# OpenFile C:/Users/Daneshvar/Desktop/DLDLab/Exp3/Processor/processor.v 
+# Loading project counter
+# Compile of counter7.v failed with 1 errors.
+# Compile of counter7.v was successful.
+vsim -gui work.cnt7TB
+# vsim -gui work.cnt7TB 
+# Loading work.cnt7TB
+# Loading work.counter7
+add wave sim:/cnt7TB/*
+run -all
+# Compile of counter7.v was successful.
+vsim -gui work.cnt7TB
+# vsim -gui work.cnt7TB 
+# Loading work.cnt7TB
+# Loading work.counter7
+# Compile of counter7.v was successful.
+vsim -gui work.cnt7TB
+# vsim -gui work.cnt7TB 
+# Loading work.cnt7TB
+# Loading work.counter7
+add wave sim:/cnt7TB/*
+run -all
+# Compile of counter7.v was successful.

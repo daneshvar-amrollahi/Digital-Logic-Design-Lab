@@ -1,0 +1,101 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 125C Model Setup 'clk_divider'
+Slack : -11.738
+TNS   : -102.394
+
+Type  : Slow 1200mV 125C Model Setup 'clk_regulator'
+Slack : -6.585
+TNS   : -133.607
+
+Type  : Slow 1200mV 125C Model Hold 'clk_divider'
+Slack : -3.211
+TNS   : -11.754
+
+Type  : Slow 1200mV 125C Model Hold 'clk_regulator'
+Slack : 0.457
+TNS   : 0.000
+
+Type  : Slow 1200mV 125C Model Recovery 'clk_divider'
+Slack : -12.060
+TNS   : -89.879
+
+Type  : Slow 1200mV 125C Model Removal 'clk_divider'
+Slack : -1.393
+TNS   : -4.970
+
+Type  : Slow 1200mV 125C Model Minimum Pulse Width 'clk_regulator'
+Slack : -3.000
+TNS   : -40.175
+
+Type  : Slow 1200mV 125C Model Minimum Pulse Width 'clk_divider'
+Slack : -3.000
+TNS   : -22.937
+
+Type  : Slow 1200mV -40C Model Setup 'clk_divider'
+Slack : -10.015
+TNS   : -86.452
+
+Type  : Slow 1200mV -40C Model Setup 'clk_regulator'
+Slack : -5.607
+TNS   : -116.756
+
+Type  : Slow 1200mV -40C Model Hold 'clk_divider'
+Slack : -2.728
+TNS   : -9.902
+
+Type  : Slow 1200mV -40C Model Hold 'clk_regulator'
+Slack : 0.368
+TNS   : 0.000
+
+Type  : Slow 1200mV -40C Model Recovery 'clk_divider'
+Slack : -10.305
+TNS   : -76.414
+
+Type  : Slow 1200mV -40C Model Removal 'clk_divider'
+Slack : -1.328
+TNS   : -4.730
+
+Type  : Slow 1200mV -40C Model Minimum Pulse Width 'clk_regulator'
+Slack : -3.000
+TNS   : -35.125
+
+Type  : Slow 1200mV -40C Model Minimum Pulse Width 'clk_divider'
+Slack : -3.000
+TNS   : -20.315
+
+Type  : Fast 1200mV -40C Model Setup 'clk_divider'
+Slack : -5.539
+TNS   : -47.199
+
+Type  : Fast 1200mV -40C Model Setup 'clk_regulator'
+Slack : -2.316
+TNS   : -45.921
+
+Type  : Fast 1200mV -40C Model Hold 'clk_divider'
+Slack : -1.488
+TNS   : -5.575
+
+Type  : Fast 1200mV -40C Model Hold 'clk_regulator'
+Slack : 0.193
+TNS   : 0.000
+
+Type  : Fast 1200mV -40C Model Recovery 'clk_divider'
+Slack : -5.639
+TNS   : -42.384
+
+Type  : Fast 1200mV -40C Model Removal 'clk_divider'
+Slack : -0.555
+TNS   : -1.965
+
+Type  : Fast 1200mV -40C Model Minimum Pulse Width 'clk_regulator'
+Slack : -3.000
+TNS   : -29.185
+
+Type  : Fast 1200mV -40C Model Minimum Pulse Width 'clk_divider'
+Slack : -3.000
+TNS   : -18.807
+
+------------------------------------------------------------

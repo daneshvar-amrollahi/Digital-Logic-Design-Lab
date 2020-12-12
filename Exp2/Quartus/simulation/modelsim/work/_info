@@ -1,0 +1,82 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1
+vexp2
+Z1 !s100 JAYgf7NCV^OoX]Q38Lm1P0
+Z2 IVNfe:`6clZaYb:d4CDajP1
+Z3 V418eCRXY<56`Qje87jW]E1
+Z4 dC:\Users\Daneshvar\Desktop\DLDLab\Exp2\Quartus\simulation\modelsim
+Z5 w1606419238
+Z6 8C:/Users/Daneshvar/Desktop/DLDLab/Exp2/Quartus/simulation/modelsim/exp2.vo
+Z7 FC:/Users/Daneshvar/Desktop/DLDLab/Exp2/Quartus/simulation/modelsim/exp2.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/Daneshvar/Desktop/DLDLab/Exp2/Quartus/simulation/modelsim/exp2.vo|
+Z10 o-work work -O0
+!i10b 1
+!s85 0
+Z11 !s108 1606566559.958000
+Z12 !s107 C:/Users/Daneshvar/Desktop/DLDLab/Exp2/Quartus/simulation/modelsim/exp2.vo|
+!s101 -O0
+vexp2msTB
+!i10b 1
+Z13 !s100 m]K=VMZdHe^=Hj]A39jNl0
+Z14 IT@8IDzmRnZOfE_0eBdSIa2
+Z15 VERi13[cKcFScOjR1Cjd>W3
+R4
+Z16 w1606501335
+Z17 8C:/Users/Daneshvar/Desktop/DLDLab/Exp2/Quartus/simulation/modelsim/exp2msTB.v
+Z18 FC:/Users/Daneshvar/Desktop/DLDLab/Exp2/Quartus/simulation/modelsim/exp2msTB.v
+L0 19
+R8
+r1
+!s85 0
+31
+Z19 !s108 1606566560.021000
+Z20 !s107 C:/Users/Daneshvar/Desktop/DLDLab/Exp2/Quartus/simulation/modelsim/exp2msTB.v|
+Z21 !s90 -reportprogress|300|-work|work|C:/Users/Daneshvar/Desktop/DLDLab/Exp2/Quartus/simulation/modelsim/exp2msTB.v|
+!s101 -O0
+R10
+Z22 nexp2ms@t@b
+vring_osc
+Z23 !s100 ;^V1?;_ecb@@dFgzHDWIc3
+Z24 IzenP19i5`=Xj74WaSRTcX3
+Z25 VWg@4bYe4?Ydo`XoX1n<Bi3
+R4
+Z26 w1606459574
+R17
+R18
+L0 3
+R8
+r1
+31
+Z27 !s108 1606459594.454000
+Z28 !s107 C:/Users/Daneshvar/Desktop/DLDLab/Exp2/Quartus/simulation/modelsim/exp2msTB.v|
+R21
+R10
+!i10b 1
+!s85 0
+!s101 -O0
+vring_oscillator
+!i10b 1
+Z29 !s100 5lMdSCIZ]Y<a4^R`e9_Qf0
+Z30 IbDnM_[@a`k58eIF=F9g402
+Z31 VlkPWn0RSC[BHE=mmKhgh00
+R4
+R16
+R17
+R18
+L0 3
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R10

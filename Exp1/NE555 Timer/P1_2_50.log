@@ -1,0 +1,21 @@
+Circuit: * C:\Users\Daneshvar\Desktop\DLDLab\Exp1\NE555 Timer\P1_2_50.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Tue Nov 10 11:32:04 2020
+Total elapsed time: 0.085 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 11742
+traniter = 11734
+tranpoints = 2479
+accept = 1894
+rejected = 585
+matrix size = 14
+fillins = 0
+solver = Normal
+Matrix Compiler1: 384 bytes object code size  0.1/0.1/[0.0]
+Matrix Compiler2: 776 bytes object code size  0.1/0.2/[0.1]
+

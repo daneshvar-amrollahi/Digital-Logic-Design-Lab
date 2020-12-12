@@ -1,0 +1,62 @@
+Circuit: * C:\Users\Daneshvar\Desktop\DLDLab\Exp1\Schmitt Trigger Oscillator\R470.asc
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+vernier = 0.5
+Gmin = 0.000223007
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+vernier = 0.03125
+vernier = 0.015625
+vernier = 0.0078125
+vernier = 0.00390625
+vernier = 0.00195313
+vernier = 0.000976563
+vernier = 0.000488281
+Gmin = 0.000223007
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 54.7348%
+vernier = 0.015625
+Source Step = 54.5691%
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+Source Step = 33.3333%
+vernier = 0.25
+Source Step = 31.3447%
+vernier = 0.000976563
+Source stepping failed
+
+Pseudo Transient failed in finding the operating point at 24.3291 ms.
+Trouble finding operating point....skipping operating point for Transient analysis.
+Ignoring empty pin current: Ix(u1:vcc)
+Changing Tseed to 1e-007
+Changing Tseed to 1e-009
+
+Date: Tue Nov 10 17:24:32 2020
+Total elapsed time: 8.527 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 6844640
+traniter = 1264851
+tranpoints = 360600
+accept = 280159
+rejected = 224409
+matrix size = 10
+fillins = 1
+solver = Normal
+Matrix Compiler1: 274 bytes object code size  0.1/0.1/[0.0]
+Matrix Compiler2: 578 bytes object code size  0.1/0.2/[0.1]
+

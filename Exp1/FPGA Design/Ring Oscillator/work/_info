@@ -1,0 +1,43 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1
+vring_oscill_tb
+!i10b 1
+!s100 5lgTeW9?QmP<Cj?[^5fKY3
+ISOQ^Q]UB@AK9Z0HT2T>]=1
+VlMzZfzPP>9h^EMRfg`@HC3
+Z1 dC:\Users\Daneshvar\Desktop\DLDLab\Exp1\FPGA Design\Ring Oscillator
+Z2 w1605175898
+Z3 8C:/Users/Daneshvar/Desktop/DLDLab/Exp1/FPGA Design/Ring Oscillator/ringoscill.v
+Z4 FC:/Users/Daneshvar/Desktop/DLDLab/Exp1/FPGA Design/Ring Oscillator/ringoscill.v
+L0 19
+Z5 OV;L;10.1d;51
+r1
+!s85 0
+31
+Z6 !s108 1605175900.516000
+Z7 !s107 C:/Users/Daneshvar/Desktop/DLDLab/Exp1/FPGA Design/Ring Oscillator/ringoscill.v|
+Z8 !s90 -reportprogress|300|-work|work|C:/Users/Daneshvar/Desktop/DLDLab/Exp1/FPGA Design/Ring Oscillator/ringoscill.v|
+!s101 -O0
+Z9 o-work work -O0
+vring_oscillator
+!i10b 1
+Z10 !s100 4bHVAjobS3F@PnmcIJMol2
+Z11 IL8<1O?D]U;PR00VXiCl6S0
+Z12 V<P8h@;H1Hl?kGZnX[mPB;3
+R1
+R2
+R3
+R4
+L0 3
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!s101 -O0
+R9

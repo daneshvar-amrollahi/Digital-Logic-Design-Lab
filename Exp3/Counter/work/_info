@@ -1,0 +1,83 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Daneshvar\Desktop\DLDLab\Exp3\Processor
+vcnt7TB
+Z1 ILLQ8PL6J9ljKNQjD5@hWM1
+Z2 V2]?lK?CE1kcli6CdXYSCF0
+Z3 dC:\Users\Daneshvar\Desktop\DLDLab\Exp3\Counter
+Z4 w1607527467
+Z5 8C:/Users/Daneshvar/Desktop/DLDLab/Exp3/Counter/counter7.v
+Z6 FC:/Users/Daneshvar/Desktop/DLDLab/Exp3/Counter/counter7.v
+L0 15
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s108 1607527470.248000
+Z9 !s107 C:/Users/Daneshvar/Desktop/DLDLab/Exp3/Counter/counter7.v|
+Z10 !s90 -reportprogress|300|-work|work|C:/Users/Daneshvar/Desktop/DLDLab/Exp3/Counter/counter7.v|
+Z11 o-work work -O0
+Z12 ncnt7@t@b
+Z13 !s100 R?KX<LD>DCdohQbhaQf:P2
+!i10b 1
+!s85 0
+!s101 -O0
+vcnt8TB
+!i10b 1
+!s100 Y51nfIo475c@:BhVoZ5c[0
+I8WXbd]jB[ENn;hWWI7K2e0
+Z14 VSLkLczfN?F?85YUSHKS_W0
+R3
+Z15 w1607527880
+Z16 8C:/Users/Daneshvar/Desktop/DLDLab/Exp3/Counter/counter8.v
+Z17 FC:/Users/Daneshvar/Desktop/DLDLab/Exp3/Counter/counter8.v
+L0 15
+R7
+r1
+!s85 0
+31
+Z18 !s108 1607527940.140000
+Z19 !s107 C:/Users/Daneshvar/Desktop/DLDLab/Exp3/Counter/counter8.v|
+Z20 !s90 -reportprogress|300|-work|work|C:/Users/Daneshvar/Desktop/DLDLab/Exp3/Counter/counter8.v|
+!s101 -O0
+R11
+Z21 ncnt8@t@b
+vcounter7
+Z22 IKJ6TUMVN1?JgQUoXI_Ie>3
+Z23 VKXiaReYg9ded3>S`TRM_B1
+R3
+R4
+R5
+R6
+L0 1
+R7
+r1
+31
+R8
+R9
+R10
+R11
+Z24 !s100 `:[J1T?HEH7b5djCAg1cZ3
+!i10b 1
+!s85 0
+!s101 -O0
+vcounter8
+!i10b 1
+!s100 Aa1<OEbX0P3TKj^En@EX00
+I?fcLR:8O]Pg4NGV5:GFFb0
+Z25 V6R9@<bck]M^[1fLE5RJkh1
+R3
+R15
+R16
+R17
+L0 1
+R7
+r1
+!s85 0
+31
+R18
+R19
+R20
+!s101 -O0
+R11

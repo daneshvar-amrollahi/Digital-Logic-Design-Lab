@@ -1,0 +1,45 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Daneshvar\Desktop\DLDLab\Exp3\WaveformGenerator
+vProcessor
+!i10b 1
+!s100 ^d3:i[:cOneZVVVGQ@SoR2
+IA`2SE_BhEZ4gJ;ZEEHXM[2
+Z1 Vod6a<GN6nlil];ofMb;W52
+Z2 dC:\Users\Daneshvar\Desktop\DLDLab\Exp3\Processor
+Z3 w1607692993
+Z4 8C:/Users/Daneshvar/Desktop/DLDLab/Exp3/Processor/processor.v
+Z5 FC:/Users/Daneshvar/Desktop/DLDLab/Exp3/Processor/processor.v
+L0 2
+Z6 OV;L;10.1d;51
+r1
+!s85 0
+31
+Z7 !s108 1607692995.800000
+Z8 !s107 C:/Users/Daneshvar/Desktop/DLDLab/Exp3/Processor/processor.v|
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/Daneshvar/Desktop/DLDLab/Exp3/Processor/processor.v|
+!s101 -O0
+Z10 o-work work -O0
+Z11 n@processor
+vProcessorTB
+!i10b 1
+Z12 !s100 jLg8Oc0?C?D89Q=d[]SOd2
+Z13 I?aU:F25Q?;1T9l]_Yo=nG1
+Z14 V>0XDDE=kIHCZ9<o7W>FYd3
+R2
+R3
+R4
+R5
+Z15 L0 107
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+R10
+Z16 n@processor@t@b

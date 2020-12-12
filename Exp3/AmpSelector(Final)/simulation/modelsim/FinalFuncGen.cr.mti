@@ -1,0 +1,17 @@
+C:/Users/Daneshvar/Desktop/DLDLab/Exp3/AmpSelector(Final)/simulation/modelsim/FinalTB.v {2 {vlog -work work C:/Users/Daneshvar/Desktop/DLDLab/Exp3/AmpSelector(Final)/simulation/modelsim/FinalTB.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+** Warning: C:/Users/Daneshvar/Desktop/DLDLab/Exp3/AmpSelector(Final)/simulation/modelsim/FinalTB.v(1): (vlog-2283) Extra semicolon in $unit (global) scope.
+
+-- Compiling module FinalTB
+
+Top level modules:
+	FinalTB
+
+} {} {}} C:/Users/Daneshvar/Desktop/DLDLab/Exp3/AmpSelector(Final)/simulation/modelsim/FuncGenWithFreqAndAmp.vo {1 {vlog -work work C:/Users/Daneshvar/Desktop/DLDLab/Exp3/AmpSelector(Final)/simulation/modelsim/FuncGenWithFreqAndAmp.vo
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module FuncGenWithFreqAndAmp
+
+Top level modules:
+	FuncGenWithFreqAndAmp
+
+} {} {}}

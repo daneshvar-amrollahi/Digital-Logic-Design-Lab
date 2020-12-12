@@ -1,0 +1,11 @@
+C:/Users/Daneshvar/Desktop/DLDLab/Exp3/Processor/processor.v {2 {vlog -work work C:/Users/Daneshvar/Desktop/DLDLab/Exp3/Processor/processor.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+** Warning: C:/Users/Daneshvar/Desktop/DLDLab/Exp3/Processor/processor.v(1): (vlog-2283) Extra semicolon in $unit (global) scope.
+
+-- Compiling module Processor
+-- Compiling module ProcessorTB
+
+Top level modules:
+	ProcessorTB
+
+} {} {}}

@@ -1,0 +1,16 @@
+{C:/Users/Daneshvar/Desktop/DLDLab/Exp1/FPGA Design/DisplayCounter/simulation/modelsim/cnt113dispTB.v} {1 {vlog -work work {C:/Users/Daneshvar/Desktop/DLDLab/Exp1/FPGA Design/DisplayCounter/simulation/modelsim/cnt113dispTB.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ring_oscillator
+-- Compiling module count113dispTB
+
+Top level modules:
+	count113dispTB
+
+} {} {}} {C:/Users/Daneshvar/Desktop/DLDLab/Exp1/FPGA Design/DisplayCounter/simulation/modelsim/count113.vo} {1 {vlog -work work {C:/Users/Daneshvar/Desktop/DLDLab/Exp1/FPGA Design/DisplayCounter/simulation/modelsim/count113.vo}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module count113
+
+Top level modules:
+	count113
+
+} {} {}}

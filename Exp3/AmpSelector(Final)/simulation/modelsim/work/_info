@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Daneshvar\Desktop\DLDLab\Exp3\FrequencySelector\simulation\modelsim
+vCDividerTB
+Z1 !s100 <DLX8O_nXoVa?8jeN9gF83
+Z2 IzhO;CzXeAMEB5K=H3JT;n2
+Z3 VE^jUXPW`H@7HTiXCILa@j2
+Z4 dC:\Users\Daneshvar\Desktop\DLDLab\Exp3\AmpSelector(Final)\simulation\modelsim
+Z5 w1607689391
+Z6 8C:/Users/Daneshvar/Desktop/DLDLab/Exp3/AmpSelector(Final)/simulation/modelsim/FinalTB.v
+Z7 FC:/Users/Daneshvar/Desktop/DLDLab/Exp3/AmpSelector(Final)/simulation/modelsim/FinalTB.v
+L0 54
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/Daneshvar/Desktop/DLDLab/Exp3/AmpSelector(Final)/simulation/modelsim/FinalTB.v|
+Z10 o-work work -O0
+Z11 n@c@divider@t@b
+Z12 !s108 1607689412.923000
+Z13 !s107 C:/Users/Daneshvar/Desktop/DLDLab/Exp3/AmpSelector(Final)/simulation/modelsim/FinalTB.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vClockDivider
+Z14 !s100 M3VJNNKYIV`GL6N6l861e0
+Z15 I7h9SKKnjQE]UV>e<Ra@cg1
+Z16 VXbR6O<B0Y>:Yh6^31Q<@Q2
+R4
+Z17 w1607689361
+Z18 8C:/Users/Daneshvar/Desktop/DLDLab/Exp3/AmpSelector(Final)/simulation/modelsim/FuncGenWithFreqAndAmp.vo
+Z19 FC:/Users/Daneshvar/Desktop/DLDLab/Exp3/AmpSelector(Final)/simulation/modelsim/FuncGenWithFreqAndAmp.vo
+L0 31
+R8
+r1
+31
+Z20 !s90 -reportprogress|300|-work|work|C:/Users/Daneshvar/Desktop/DLDLab/Exp3/AmpSelector(Final)/simulation/modelsim/FuncGenWithFreqAndAmp.vo|
+R10
+Z21 n@clock@divider
+Z22 !s108 1607689412.861000
+Z23 !s107 C:/Users/Daneshvar/Desktop/DLDLab/Exp3/AmpSelector(Final)/simulation/modelsim/FuncGenWithFreqAndAmp.vo|
+!i10b 1
+!s85 0
+!s101 -O0
+vFinalTB
+!i10b 1
+Z24 !s100 m7MPV7W^F6G9cn<YR2]JV1
+Z25 IJZ964f2iHLV:_Sl3DdBZC0
+Z26 V0?hMn4ZjJk10RfR=NYf9U1
+R4
+Z27 w1607689955
+R6
+R7
+L0 4
+R8
+r1
+!s85 0
+31
+!s108 1607697251.582000
+!s107 C:/Users/Daneshvar/Desktop/DLDLab/Exp3/AmpSelector(Final)/simulation/modelsim/FinalTB.v|
+R9
+!s101 -O0
+R10
+Z28 n@final@t@b
+vFuncGenWithFreqAndAmp
+Z29 !s100 BSmd5bbleV8c_Ag9mOzob1
+Z30 IbW7M@gXm[Y8In4NUFWSzM1
+Z31 V;XL4ib5hzj@@g8Xl;ldM60
+R4
+Z32 w1607693532
+R18
+R19
+L0 31
+R8
+r1
+31
+R20
+R10
+Z33 n@func@gen@with@freq@and@amp
+!i10b 1
+!s85 0
+Z34 !s108 1607697251.443000
+R23
+!s101 -O0

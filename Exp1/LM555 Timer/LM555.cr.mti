@@ -1,0 +1,15 @@
+{C:/Users/Daneshvar/Desktop/DLDLab/Exp1/LM555 Timer/lm_555_tb.v} {1 {vlog -work work {C:/Users/Daneshvar/Desktop/DLDLab/Exp1/LM555 Timer/lm_555_tb.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module lm_555_tb
+
+Top level modules:
+	lm_555_tb
+
+} {} {}} {C:/Users/Daneshvar/Desktop/DLDLab/Exp1/LM555 Timer/lm_555_timer.v} {1 {vlog -work work {C:/Users/Daneshvar/Desktop/DLDLab/Exp1/LM555 Timer/lm_555_timer.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module lm_555_timer
+
+Top level modules:
+	lm_555_timer
+
+} {} {}}

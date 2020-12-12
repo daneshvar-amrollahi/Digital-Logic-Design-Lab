@@ -1,0 +1,61 @@
+Circuit: * C:\Users\Daneshvar\Desktop\DLDLab\Exp1\Ring Oscillator\P1_1.asc
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+vernier = 0.5
+vernier = 0.25
+Gmin = 0.000278759
+vernier = 0.125
+vernier = 0.0625
+vernier = 0.03125
+vernier = 0.015625
+vernier = 0.0078125
+vernier = 0.00390625
+vernier = 0.00195313
+vernier = 0.000976563
+vernier = 0.000488281
+Gmin = 0
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 51.5625%
+vernier = 0.00390625
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+Source Step = 28.0303%
+Source Step = 28.998%
+Source stepping failed
+
+Pseudo Transient failed in finding the operating point at 313.561 µs.
+Trouble finding operating point....skipping operating point for Transient analysis.
+Ignoring empty pin current: Ix(u1:vcc)
+Ignoring empty pin current: Ix(u2:vcc)
+Ignoring empty pin current: Ix(u3:vcc)
+Changing Tseed to 1e-007
+Changing Tseed to 1e-009
+
+Date: Tue Nov 10 13:57:16 2020
+Total elapsed time: 43.225 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 23508466
+traniter = 6225115
+tranpoints = 2324690
+accept = 1667299
+rejected = 1093831
+matrix size = 27
+fillins = 3
+solver = Normal
+Matrix Compiler1: 692 bytes object code size  0.2/0.1/[0.1]
+Matrix Compiler2: off  [0.1]/0.3/0.3
+

@@ -1,0 +1,18 @@
+C:/Users/Daneshvar/Desktop/DLDLab/Exp2/Quartus/simulation/modelsim/exp2.vo {1 {vlog -work work C:/Users/Daneshvar/Desktop/DLDLab/Exp2/Quartus/simulation/modelsim/exp2.vo
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module exp2
+
+Top level modules:
+	exp2
+
+} {} {}} C:/Users/Daneshvar/Desktop/DLDLab/Exp2/Quartus/simulation/modelsim/exp2msTB.v {2 {vlog -work work C:/Users/Daneshvar/Desktop/DLDLab/Exp2/Quartus/simulation/modelsim/exp2msTB.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+** Warning: C:/Users/Daneshvar/Desktop/DLDLab/Exp2/Quartus/simulation/modelsim/exp2msTB.v(1): (vlog-2283) Extra semicolon in $unit (global) scope.
+
+-- Compiling module ring_oscillator
+-- Compiling module exp2msTB
+
+Top level modules:
+	exp2msTB
+
+} {} {}}

@@ -1,0 +1,9 @@
+C:/Users/Daneshvar/Desktop/DLDLab/Exp3/Counter/counter8.v {1 {vlog -work work C:/Users/Daneshvar/Desktop/DLDLab/Exp3/Counter/counter8.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module counter8
+-- Compiling module cnt8TB
+
+Top level modules:
+	cnt8TB
+
+} {} {}}

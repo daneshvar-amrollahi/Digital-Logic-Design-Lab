@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="FuncGenWithFreqAndAmp">
+		<CBX_INST_ENTRY INSTANCE_NAME="|FuncGenWithFreqAndAmp|BUSMUX:inst6|lpm_mux:$00000" CBX_FILE_NAME="mux_erc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|FuncGenWithFreqAndAmp|Processor:inst2|lpm_divide:Div0" CBX_FILE_NAME="lpm_divide_phm.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|FuncGenWithFreqAndAmp|romm:inst4|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_3l91.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

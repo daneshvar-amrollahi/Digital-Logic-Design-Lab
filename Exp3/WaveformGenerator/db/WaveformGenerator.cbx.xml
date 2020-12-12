@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="WaveformGenerator">
+		<CBX_INST_ENTRY INSTANCE_NAME="|WaveformGenerator|BUSMUX:inst5|lpm_mux:$00000" CBX_FILE_NAME="mux_erc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|WaveformGenerator|Processor:processor|lpm_divide:Div0" CBX_FILE_NAME="lpm_divide_phm.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|WaveformGenerator|romm:inst2|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_3l91.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

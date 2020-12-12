@@ -1,0 +1,26 @@
+`timescale 1ns/1ns;
+
+module WaveGeneratorTB();
+  
+    wire [7:0] out;
+    reg clk, rst;
+    reg [2:0] select;
+    
+    WaveformGenerator UUT(.clk(clk), .rst(rst), .sel(select), .out(out));
+    
+    initial begin
+        rst = 1; #5;
+        clk = 1; #10;
+        rst = 0; #5;
+        clk = 0;
+        select = 3'b000;
+        repeat(8) begin
+          repeat(2048) begin
+              clk = 1; #20;
+              clk = 0; #20;  
+          end
+          
+          select = select + 3'b001;  
+        end
+    end
+endmodule
