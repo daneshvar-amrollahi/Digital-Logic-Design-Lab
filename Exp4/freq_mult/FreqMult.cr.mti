@@ -1,0 +1,28 @@
+C:/Users/Daneshvar/Desktop/DLDLab/Exp4/freq_mult/FreqMult.sv {2 {vlog -work work -sv C:/Users/Daneshvar/Desktop/DLDLab/Exp4/freq_mult/FreqMult.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+** Warning: C:/Users/Daneshvar/Desktop/DLDLab/Exp4/freq_mult/FreqMult.sv(1): (vlog-2283) Extra semicolon in $unit (global) scope.
+
+** Warning: C:/Users/Daneshvar/Desktop/DLDLab/Exp4/freq_mult/FreqMult.sv(54): (vlog-2284) Empty $unit scope found.
+
+-- Compiling package FreqMult_sv_unit
+-- Compiling module FreqMult
+-- Compiling module FreqMultTB
+
+Top level modules:
+	FreqMultTB
+
+} {} {}} C:/Users/Daneshvar/Desktop/DLDLab/Exp4/freq_mult/controller.sv {1 {vlog -work work -sv C:/Users/Daneshvar/Desktop/DLDLab/Exp4/freq_mult/controller.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} C:/Users/Daneshvar/Desktop/DLDLab/Exp4/freq_mult/datapath.sv {1 {vlog -work work -sv C:/Users/Daneshvar/Desktop/DLDLab/Exp4/freq_mult/datapath.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module datapath
+
+Top level modules:
+	datapath
+
+} {} {}}

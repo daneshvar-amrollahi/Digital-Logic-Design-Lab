@@ -1,0 +1,149 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 125C Model Setup 'FreqMult:inst|datapath:DP|myTFF:TFFi|t'
+Slack : -6.235
+TNS   : -258.083
+
+Type  : Slow 1200mV 125C Model Setup 'clk'
+Slack : -2.139
+TNS   : -27.115
+
+Type  : Slow 1200mV 125C Model Setup 'exponential:instExponential|expDatapath:dP|counter:count|out[3]'
+Slack : -1.964
+TNS   : -19.868
+
+Type  : Slow 1200mV 125C Model Setup 'FreqMult:inst|datapath:DP|cnt[0]'
+Slack : 0.463
+TNS   : 0.000
+
+Type  : Slow 1200mV 125C Model Hold 'FreqMult:inst|datapath:DP|cnt[0]'
+Slack : -0.492
+TNS   : -0.492
+
+Type  : Slow 1200mV 125C Model Hold 'FreqMult:inst|datapath:DP|myTFF:TFFi|t'
+Slack : -0.401
+TNS   : -1.021
+
+Type  : Slow 1200mV 125C Model Hold 'clk'
+Slack : -0.239
+TNS   : -1.194
+
+Type  : Slow 1200mV 125C Model Hold 'exponential:instExponential|expDatapath:dP|counter:count|out[3]'
+Slack : 1.142
+TNS   : 0.000
+
+Type  : Slow 1200mV 125C Model Minimum Pulse Width 'FreqMult:inst|datapath:DP|myTFF:TFFi|t'
+Slack : -3.000
+TNS   : -137.220
+
+Type  : Slow 1200mV 125C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -31.253
+
+Type  : Slow 1200mV 125C Model Minimum Pulse Width 'FreqMult:inst|datapath:DP|cnt[0]'
+Slack : -1.487
+TNS   : -1.487
+
+Type  : Slow 1200mV 125C Model Minimum Pulse Width 'exponential:instExponential|expDatapath:dP|counter:count|out[3]'
+Slack : 0.397
+TNS   : 0.000
+
+Type  : Slow 1200mV -40C Model Setup 'FreqMult:inst|datapath:DP|myTFF:TFFi|t'
+Slack : -5.276
+TNS   : -213.459
+
+Type  : Slow 1200mV -40C Model Setup 'clk'
+Slack : -1.706
+TNS   : -20.871
+
+Type  : Slow 1200mV -40C Model Setup 'exponential:instExponential|expDatapath:dP|counter:count|out[3]'
+Slack : -1.516
+TNS   : -15.357
+
+Type  : Slow 1200mV -40C Model Setup 'FreqMult:inst|datapath:DP|cnt[0]'
+Slack : 0.536
+TNS   : 0.000
+
+Type  : Slow 1200mV -40C Model Hold 'FreqMult:inst|datapath:DP|cnt[0]'
+Slack : -0.474
+TNS   : -0.474
+
+Type  : Slow 1200mV -40C Model Hold 'FreqMult:inst|datapath:DP|myTFF:TFFi|t'
+Slack : -0.323
+TNS   : -0.788
+
+Type  : Slow 1200mV -40C Model Hold 'clk'
+Slack : -0.256
+TNS   : -1.434
+
+Type  : Slow 1200mV -40C Model Hold 'exponential:instExponential|expDatapath:dP|counter:count|out[3]'
+Slack : 0.981
+TNS   : 0.000
+
+Type  : Slow 1200mV -40C Model Minimum Pulse Width 'FreqMult:inst|datapath:DP|myTFF:TFFi|t'
+Slack : -3.000
+TNS   : -125.100
+
+Type  : Slow 1200mV -40C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -27.415
+
+Type  : Slow 1200mV -40C Model Minimum Pulse Width 'FreqMult:inst|datapath:DP|cnt[0]'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Slow 1200mV -40C Model Minimum Pulse Width 'exponential:instExponential|expDatapath:dP|counter:count|out[3]'
+Slack : 0.470
+TNS   : 0.000
+
+Type  : Fast 1200mV -40C Model Setup 'FreqMult:inst|datapath:DP|myTFF:TFFi|t'
+Slack : -2.289
+TNS   : -77.565
+
+Type  : Fast 1200mV -40C Model Setup 'clk'
+Slack : -0.473
+TNS   : -3.598
+
+Type  : Fast 1200mV -40C Model Setup 'exponential:instExponential|expDatapath:dP|counter:count|out[3]'
+Slack : -0.341
+TNS   : -2.968
+
+Type  : Fast 1200mV -40C Model Setup 'FreqMult:inst|datapath:DP|cnt[0]'
+Slack : 0.458
+TNS   : 0.000
+
+Type  : Fast 1200mV -40C Model Hold 'FreqMult:inst|datapath:DP|myTFF:TFFi|t'
+Slack : -0.276
+TNS   : -0.685
+
+Type  : Fast 1200mV -40C Model Hold 'FreqMult:inst|datapath:DP|cnt[0]'
+Slack : -0.217
+TNS   : -0.217
+
+Type  : Fast 1200mV -40C Model Hold 'clk'
+Slack : -0.197
+TNS   : -1.499
+
+Type  : Fast 1200mV -40C Model Hold 'exponential:instExponential|expDatapath:dP|counter:count|out[3]'
+Slack : 0.490
+TNS   : 0.000
+
+Type  : Fast 1200mV -40C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -22.965
+
+Type  : Fast 1200mV -40C Model Minimum Pulse Width 'FreqMult:inst|datapath:DP|myTFF:TFFi|t'
+Slack : -1.000
+TNS   : -76.000
+
+Type  : Fast 1200mV -40C Model Minimum Pulse Width 'FreqMult:inst|datapath:DP|cnt[0]'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV -40C Model Minimum Pulse Width 'exponential:instExponential|expDatapath:dP|counter:count|out[3]'
+Slack : 0.396
+TNS   : 0.000
+
+------------------------------------------------------------

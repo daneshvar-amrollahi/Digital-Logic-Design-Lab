@@ -1,0 +1,119 @@
+C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/TFF.sv {1 {vlog -work work -sv C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/TFF.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module myTFF
+
+Top level modules:
+	myTFF
+
+} {} {}} C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/Counter.sv {1 {vlog -work work -sv C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/Counter.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module counter
+
+Top level modules:
+	counter
+
+} {} {}} C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/mux2to1.sv {1 {vlog -work work -sv C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/mux2to1.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mux2to1
+
+Top level modules:
+	mux2to1
+
+} {} {}} C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/expDatapath.sv {1 {vlog -work work -sv C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/expDatapath.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module expDatapath
+
+Top level modules:
+	expDatapath
+
+} {} {}} C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/register18.sv {1 {vlog -work work -sv C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/register18.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module register18
+
+Top level modules:
+	register18
+
+} {} {}} C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/datapath.sv {1 {vlog -work work -sv C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/datapath.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module datapath
+
+Top level modules:
+	datapath
+
+} {} {}} C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/exponential.sv {1 {vlog -work work -sv C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/exponential.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module exponential
+
+Top level modules:
+	exponential
+
+} {} {}} C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/FreqMult.sv {2 {vlog -work work -sv C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/FreqMult.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+** Warning: C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/FreqMult.sv(1): (vlog-2283) Extra semicolon in $unit (global) scope.
+
+** Warning: C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/FreqMult.sv(54): (vlog-2284) Empty $unit scope found.
+
+-- Compiling package FreqMult_sv_unit
+-- Compiling module FreqMult
+-- Compiling module FreqMultTB
+
+Top level modules:
+	FreqMultTB
+
+} {} {}} C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/adder.sv {1 {vlog -work work -sv C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/adder.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module adder
+
+Top level modules:
+	adder
+
+} {} {}} C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/expController.sv {1 {vlog -work work -sv C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/expController.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module expController
+
+Top level modules:
+	expController
+
+} {} {}} C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/LUTExp.sv {1 {vlog -work work -sv C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/LUTExp.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module LUT
+
+Top level modules:
+	LUT
+
+} {} {}} C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/controller.sv {1 {vlog -work work -sv C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/controller.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/register.sv {1 {vlog -work work -sv C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/register.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module register
+
+Top level modules:
+	register
+
+} {} {}} C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/expTest.sv {1 {vlog -work work -sv C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/expTest.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module exptest
+
+Top level modules:
+	exptest
+
+} {} {}} C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/integTB.sv {1 {vlog -work work -sv C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/integTB.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module integTB
+
+Top level modules:
+	integTB
+
+} {} {}} C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/multiplier.sv {1 {vlog -work work -sv C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/multiplier.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module multiplier
+
+Top level modules:
+	multiplier
+
+} {} {}}

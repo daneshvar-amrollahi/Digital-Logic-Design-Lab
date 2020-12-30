@@ -1,0 +1,457 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1
+vadder
+Z1 DXx6 sv_std 3 std 0 22 F[19LRNL:5;XmIFh[XOPn1
+Z2 !s100 Q9?Z6Hdie[:j8<@a64k`P3
+Z3 I8g5mV?L5HgCi_CMHnAldN2
+Z4 V0LM1L3SQLO]nE0Ti;o<?o0
+Z5 !s105 adder_sv_unit
+S1
+Z6 dC:\Users\Daneshvar\Desktop\DLDLab\Exp4\integrated
+Z7 w1531474807
+Z8 8C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/adder.sv
+Z9 FC:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/adder.sv
+L0 1
+Z10 OV;L;10.1d;51
+r1
+31
+Z11 !s90 -reportprogress|300|-work|work|-sv|C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/adder.sv|
+Z12 o-work work -sv -O0
+Z13 !s108 1608824071.608000
+Z14 !s107 C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/adder.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vcontroller
+R1
+Z15 !s100 aoE_S1^X3@3XEhVm3_ogL1
+Z16 IIUnBKZ2:?h:8[1@Q0:^cU1
+Z17 VYZIb`bonbSI7eG0AN1lT>0
+Z18 !s105 controller_sv_unit
+S1
+R6
+Z19 w1608575127
+Z20 8C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/controller.sv
+Z21 FC:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/controller.sv
+L0 1
+R10
+r1
+31
+Z22 !s90 -reportprogress|300|-work|work|-sv|C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/controller.sv|
+R12
+Z23 !s108 1608824071.670000
+Z24 !s107 C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/controller.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vcounter
+R1
+Z25 !s100 3m]g2a]16D<8ElV2T^^[A1
+Z26 IhW>F9z68JNRk5amB:^m8V2
+Z27 VD>ZHGBO`FLBilAOTHjL@63
+Z28 !s105 Counter_sv_unit
+S1
+R6
+Z29 w1522839153
+Z30 8C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/Counter.sv
+Z31 FC:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/Counter.sv
+L0 2
+R10
+r1
+31
+Z32 !s90 -reportprogress|300|-work|work|-sv|C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/Counter.sv|
+R12
+Z33 !s108 1608824071.731000
+Z34 !s107 C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/Counter.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vdatapath
+R1
+Z35 !s100 T7g>Dg^6BXMP`832Z:24M0
+Z36 IMQ24?_9<>RbOJ[:3`D>PK1
+Z37 VE:Rk5Ek[9kWcX8Kj3iU`B1
+Z38 !s105 datapath_sv_unit
+S1
+R6
+Z39 w1608797822
+Z40 8C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/datapath.sv
+Z41 FC:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/datapath.sv
+L0 1
+R10
+r1
+31
+Z42 !s90 -reportprogress|300|-work|work|-sv|C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/datapath.sv|
+R12
+Z43 !s108 1608824071.788000
+Z44 !s107 C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/datapath.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vexpController
+R1
+Z45 !s100 GN]nR0QFFm?9;2XBWIG6R2
+Z46 IglFMW?9z5mo0@zW_n14nJ3
+Z47 Vdh^M=Z:1;JhbM<:9UlYk^0
+Z48 !s105 expController_sv_unit
+S1
+R6
+Z49 w1608735637
+Z50 8C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/expController.sv
+Z51 FC:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/expController.sv
+L0 1
+R10
+r1
+31
+Z52 !s90 -reportprogress|300|-work|work|-sv|C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/expController.sv|
+R12
+Z53 nexp@controller
+Z54 !s108 1608824071.843000
+Z55 !s107 C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/expController.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vexpDatapath
+R1
+Z56 !s100 Ml1>K?he3GH>iR=Qkm>>A3
+Z57 IcaPg3NToDnn8VfF2R@REa0
+Z58 VcklYkM?2f^k67Mi`N[D`G3
+Z59 !s105 expDatapath_sv_unit
+S1
+R6
+Z60 w1608735628
+Z61 8C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/expDatapath.sv
+Z62 FC:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/expDatapath.sv
+L0 1
+R10
+r1
+31
+Z63 !s90 -reportprogress|300|-work|work|-sv|C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/expDatapath.sv|
+R12
+Z64 nexp@datapath
+Z65 !s108 1608824071.901000
+Z66 !s107 C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/expDatapath.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vexponential
+R1
+Z67 !s100 kb0[bV@1LDZK;JdUVSV<10
+Z68 Ii@<V@AlPDje<1kGO<U]U]1
+Z69 V==8=M@z8E6URNKP0g4HFV1
+Z70 !s105 exponential_sv_unit
+S1
+R6
+Z71 w1608735697
+Z72 8C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/exponential.sv
+Z73 FC:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/exponential.sv
+L0 1
+R10
+r1
+31
+Z74 !s90 -reportprogress|300|-work|work|-sv|C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/exponential.sv|
+R12
+Z75 !s108 1608824071.958000
+Z76 !s107 C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/exponential.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vexptest
+R1
+Z77 !s100 JLcC=F7h5;eQkZOLFH?U>0
+Z78 IP^OjdBLWCk_<a6RL@R0^M0
+Z79 VBh=acPg9a:2H8DVNPiF6<1
+Z80 !s105 expTest_sv_unit
+S1
+R6
+Z81 w1608735369
+Z82 8C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/expTest.sv
+Z83 FC:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/expTest.sv
+L0 2
+R10
+r1
+31
+Z84 !s90 -reportprogress|300|-work|work|-sv|C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/expTest.sv|
+R12
+Z85 !s108 1608824072.017000
+Z86 !s107 C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/expTest.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vFreqMult
+R1
+Z87 DXx4 work 16 FreqMult_sv_unit 0 22 `kEzTob`d[Eg9bUB81WLc0
+Z88 VMcY0ZLNG_P?a=E3K`2Qch0
+r1
+31
+Z89 !s100 g5DkE>hB95M30fz<KH^JT1
+Z90 ISoc3Gkik=kMb@a6GBJTH10
+Z91 !s105 FreqMult_sv_unit
+S1
+R6
+Z92 w1608751824
+Z93 8C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/FreqMult.sv
+Z94 FC:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/FreqMult.sv
+L0 2
+R10
+Z95 !s108 1608824072.073000
+Z96 !s107 C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/FreqMult.sv|
+Z97 !s90 -reportprogress|300|-work|work|-sv|C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/FreqMult.sv|
+R12
+Z98 n@freq@mult
+!s85 0
+!i10b 1
+!s101 -O0
+XFreqMult_sv_unit
+R1
+Z99 V`kEzTob`d[Eg9bUB81WLc0
+r1
+31
+Z100 !s100 N4KaeiiXbDRIR_;W;UNVA0
+Z101 I`kEzTob`d[Eg9bUB81WLc0
+S1
+R6
+R92
+R93
+R94
+L0 1
+R10
+R95
+R96
+R97
+R12
+Z102 n@freq@mult_sv_unit
+!s85 0
+!i10b 1
+!i103 1
+!s101 -O0
+vFreqMultTB
+R1
+R87
+Z103 V`m9MG:JCY?`]XVB9GX@k`3
+r1
+31
+Z104 !s100 I8X=nJJDlcidoek]:]I2A2
+Z105 IU4X0>iIdKeOTC9G?_iGcL3
+R91
+S1
+R6
+R92
+R93
+R94
+L0 18
+R10
+R95
+R96
+R97
+R12
+Z106 n@freq@mult@t@b
+!s85 0
+!i10b 1
+!s101 -O0
+vintegTB
+R1
+Z107 !s100 SDAkM@;Fk;KZQLhPeJS=[3
+Z108 IERf2OSB49@ANimEOoTIi@0
+Z109 VL0DNaR=?0=42d9SUJ64oK0
+Z110 !s105 integTB_sv_unit
+S1
+R6
+Z111 w1608792492
+Z112 8C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/integTB.sv
+Z113 FC:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/integTB.sv
+L0 2
+R10
+r1
+31
+Z114 !s90 -reportprogress|300|-work|work|-sv|C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/integTB.sv|
+R12
+Z115 ninteg@t@b
+!i10b 1
+!s85 0
+Z116 !s108 1608824072.445000
+Z117 !s107 C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/integTB.sv|
+!s101 -O0
+XintegTB_sv_unit
+R1
+Z118 VMK=j[lA@R2GHdg35c[jXU3
+r1
+31
+Z119 !s100 Z3Z9Nf?abf7fIha7AMe7S3
+Z120 IMK=j[lA@R2GHdg35c[jXU3
+S1
+R6
+Z121 w1608752618
+R112
+R113
+L0 1
+R10
+Z122 !s108 1608752624.385000
+R117
+R114
+R12
+Z123 ninteg@t@b_sv_unit
+!s85 0
+!i10b 1
+!i103 1
+!s101 -O0
+vLUT
+R1
+Z124 !s100 MON[G4lFiRzi3GoSkGWi73
+Z125 I]T@=O7f93:?lKFb1mLbY13
+Z126 Vh7kg2cEEBCi[=5oM4L;0S3
+Z127 !s105 LUTExp_sv_unit
+S1
+R6
+Z128 w1531474067
+Z129 8C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/LUTExp.sv
+Z130 FC:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/LUTExp.sv
+L0 1
+R10
+r1
+31
+Z131 !s90 -reportprogress|300|-work|work|-sv|C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/LUTExp.sv|
+R12
+Z132 n@l@u@t
+Z133 !s108 1608824072.155000
+Z134 !s107 C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/LUTExp.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vmultiplier
+R1
+Z135 !s100 OdGnzgP:A?HcObe86Y1Mz3
+Z136 IzS2c8]JF=i2<BUk=]VO:D1
+Z137 VH:6SEC``QL31]mIH0HHiV1
+Z138 !s105 multiplier_sv_unit
+S1
+R6
+Z139 w1522837718
+Z140 8C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/multiplier.sv
+Z141 FC:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/multiplier.sv
+L0 2
+R10
+r1
+31
+Z142 !s90 -reportprogress|300|-work|work|-sv|C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/multiplier.sv|
+R12
+Z143 !s108 1608824072.212000
+Z144 !s107 C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/multiplier.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux2to1
+R1
+Z145 !s100 OfhLLYDD:c6;SJFn;Zfn02
+Z146 I0dXY;PcQ=Yl:Cn9zIhXYV0
+Z147 V>M@I<QgBEE>P@>dOPjF]V3
+Z148 !s105 mux2to1_sv_unit
+S1
+R6
+Z149 w1523043523
+Z150 8C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/mux2to1.sv
+Z151 FC:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/mux2to1.sv
+L0 2
+R10
+r1
+31
+Z152 !s90 -reportprogress|300|-work|work|-sv|C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/mux2to1.sv|
+R12
+Z153 !s108 1608824072.270000
+Z154 !s107 C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/mux2to1.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vmyTFF
+R1
+!i10b 1
+Z155 !s100 V6c>34`V[nKPVh;[nG[Vb2
+Z156 IfVZClI6boYK>3jOiG5Z3S2
+Z157 VB[JP78_JY4hLPM]oGGN1m0
+Z158 !s105 TFF_sv_unit
+S1
+R6
+Z159 w1608797819
+Z160 8C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/TFF.sv
+Z161 FC:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/TFF.sv
+L0 1
+R10
+r1
+!s85 0
+31
+!s108 1608824072.503000
+!s107 C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/TFF.sv|
+Z162 !s90 -reportprogress|300|-work|work|-sv|C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/TFF.sv|
+!s101 -O0
+R12
+Z163 nmy@t@f@f
+vregister
+R1
+Z164 !s100 Kg`g<QD:lN9m8:IXz>eBn3
+Z165 IGO]MYVI7ziC2k3oAg55HC2
+Z166 VbD9C:0UbIhUB?^a:7EYYh2
+Z167 !s105 register_sv_unit
+S1
+R6
+Z168 w1522993590
+Z169 8C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/register.sv
+Z170 FC:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/register.sv
+L0 2
+R10
+r1
+31
+Z171 !s90 -reportprogress|300|-work|work|-sv|C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/register.sv|
+R12
+Z172 !s108 1608824072.331000
+Z173 !s107 C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/register.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vregister18
+R1
+Z174 !s100 ^fo0`SZIXzY?[`@@S0oQK0
+Z175 I4=bH>_?3Ff:Uz6bP<z<:m0
+Z176 V8BhoY;<lI<5_07X=bBL@m0
+Z177 !s105 register18_sv_unit
+S1
+R6
+Z178 w1522993613
+Z179 8C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/register18.sv
+Z180 FC:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/register18.sv
+L0 2
+R10
+r1
+31
+Z181 !s90 -reportprogress|300|-work|work|-sv|C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/register18.sv|
+R12
+Z182 !s108 1608824072.388000
+Z183 !s107 C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/register18.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vTFF
+R1
+Z184 IMO`WFSBK<cggV9;bV5VQ^3
+Z185 VTL1fKHMmKICBMjSU[CfSE0
+S1
+R6
+Z186 w1608796792
+R160
+R161
+L0 1
+R10
+r1
+31
+R12
+Z187 n@t@f@f
+Z188 !s100 dHdi47;HokWgkAnoeLz0E1
+R158
+Z189 !s108 1608796795.909000
+Z190 !s107 C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated/TFF.sv|
+R162
+!i10b 1
+!s85 0
+!s101 -O0

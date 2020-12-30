@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="ExpAcc">
+		<CBX_INST_ENTRY INSTANCE_NAME="|exponential|datapath:dP|multiplier:mult|lpm_mult:Mult0" CBX_FILE_NAME="mult_7dt.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

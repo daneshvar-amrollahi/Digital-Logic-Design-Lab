@@ -1,0 +1,70 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1
+vinteg
+Z1 !s100 i4H8OFB[eKMST=P>4e>I53
+Z2 I0bPJaeRU15DBS9mXW6?T_0
+Z3 Vo>;V2ncc1^;KjU693cS[V2
+Z4 dC:\Users\Daneshvar\Desktop\DLDLab\Exp4\integrated_quartus\simulation\modelsim
+Z5 w1608825668
+Z6 8C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated_quartus/simulation/modelsim/integ.svo
+Z7 FC:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated_quartus/simulation/modelsim/integ.svo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated_quartus/simulation/modelsim/integ.svo|
+Z10 o-work work -O0
+!i10b 1
+!s85 0
+Z11 !s108 1608976183.398000
+Z12 !s107 C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated_quartus/simulation/modelsim/integ.svo|
+!s101 -O0
+vintegSynTB
+Z13 DXx6 sv_std 3 std 0 22 F[19LRNL:5;XmIFh[XOPn1
+!i10b 1
+Z14 !s100 Mh`eSl<Voca4=0ezDm:XW0
+Z15 IR7IP3GQm>:PE_IMoX:VLb0
+Z16 VTo7>^Idn@@E;B0UT3:oYI1
+Z17 !s105 integSynTB_sv_unit
+S1
+R4
+Z18 w1608834842
+Z19 8C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated_quartus/simulation/modelsim/integSynTB.sv
+Z20 FC:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated_quartus/simulation/modelsim/integSynTB.sv
+L0 2
+R8
+r1
+!s85 0
+31
+!s108 1608976183.569000
+!s107 C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated_quartus/simulation/modelsim/integSynTB.sv|
+Z21 !s90 -reportprogress|300|-work|work|-sv|C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated_quartus/simulation/modelsim/integSynTB.sv|
+!s101 -O0
+Z22 o-work work -sv -O0
+Z23 ninteg@syn@t@b
+vintegTB
+R13
+Z24 IbhMRFJgYKm52lhTP>eRY_2
+Z25 VL0DNaR=?0=42d9SUJ64oK0
+S1
+R4
+Z26 w1608812172
+R19
+R20
+L0 2
+R8
+r1
+31
+R22
+Z27 ninteg@t@b
+Z28 !s100 h]I@N<f=N::g3E^9XacJK0
+R17
+Z29 !s108 1608812185.503000
+Z30 !s107 C:/Users/Daneshvar/Desktop/DLDLab/Exp4/integrated_quartus/simulation/modelsim/integSynTB.sv|
+R21
+!i10b 1
+!s85 0
+!s101 -O0

@@ -1,0 +1,77 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 125C Model Setup 'clk'
+Slack : -6.523
+TNS   : -275.010
+
+Type  : Slow 1200mV 125C Model Setup 'datapath:dP|counter:count|out[3]'
+Slack : -1.862
+TNS   : -13.772
+
+Type  : Slow 1200mV 125C Model Hold 'clk'
+Slack : 0.050
+TNS   : 0.000
+
+Type  : Slow 1200mV 125C Model Hold 'datapath:dP|counter:count|out[3]'
+Slack : 0.135
+TNS   : 0.000
+
+Type  : Slow 1200mV 125C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -140.380
+
+Type  : Slow 1200mV 125C Model Minimum Pulse Width 'datapath:dP|counter:count|out[3]'
+Slack : 0.340
+TNS   : 0.000
+
+Type  : Slow 1200mV -40C Model Setup 'clk'
+Slack : -5.630
+TNS   : -231.150
+
+Type  : Slow 1200mV -40C Model Setup 'datapath:dP|counter:count|out[3]'
+Slack : -1.485
+TNS   : -10.016
+
+Type  : Slow 1200mV -40C Model Hold 'clk'
+Slack : 0.062
+TNS   : 0.000
+
+Type  : Slow 1200mV -40C Model Hold 'datapath:dP|counter:count|out[3]'
+Slack : 0.075
+TNS   : 0.000
+
+Type  : Slow 1200mV -40C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -128.100
+
+Type  : Slow 1200mV -40C Model Minimum Pulse Width 'datapath:dP|counter:count|out[3]'
+Slack : 0.456
+TNS   : 0.000
+
+Type  : Fast 1200mV -40C Model Setup 'clk'
+Slack : -2.478
+TNS   : -86.952
+
+Type  : Fast 1200mV -40C Model Setup 'datapath:dP|counter:count|out[3]'
+Slack : -0.260
+TNS   : -0.479
+
+Type  : Fast 1200mV -40C Model Hold 'clk'
+Slack : -0.060
+TNS   : -0.135
+
+Type  : Fast 1200mV -40C Model Hold 'datapath:dP|counter:count|out[3]'
+Slack : 0.001
+TNS   : 0.000
+
+Type  : Fast 1200mV -40C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -83.984
+
+Type  : Fast 1200mV -40C Model Minimum Pulse Width 'datapath:dP|counter:count|out[3]'
+Slack : 0.335
+TNS   : 0.000
+
+------------------------------------------------------------

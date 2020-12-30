@@ -1,0 +1,248 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Daneshvar\Desktop\DLDLab\Exp3\FrequencySelector\simulation\modelsim
+vadder
+Z1 DXx6 sv_std 3 std 0 22 F[19LRNL:5;XmIFh[XOPn1
+Z2 !s100 ^lR6U33H9?9^?Y[406JL;1
+Z3 IK97^X7]?hWD=K?B?4S2SQ0
+Z4 V0LM1L3SQLO]nE0Ti;o<?o0
+Z5 !s105 adder_sv_unit
+S1
+Z6 dC:\Users\Daneshvar\Desktop\DLDLab\Exp4\exp_accelerator\modelsim
+Z7 w1531474807
+Z8 8C:/Users/Daneshvar/Desktop/DLDLab/Exp4/exp_accelerator/modelsim/adder.sv
+Z9 FC:/Users/Daneshvar/Desktop/DLDLab/Exp4/exp_accelerator/modelsim/adder.sv
+L0 1
+Z10 OV;L;10.1d;51
+r1
+31
+Z11 !s90 -reportprogress|300|-work|work|-sv|C:/Users/Daneshvar/Desktop/DLDLab/Exp4/exp_accelerator/modelsim/adder.sv|
+Z12 o-work work -sv -O0
+Z13 !s108 1608733570.799000
+Z14 !s107 C:/Users/Daneshvar/Desktop/DLDLab/Exp4/exp_accelerator/modelsim/adder.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vcontroller
+R1
+Z15 !s100 ^29U2dc?KA>C?58O2UmK]3
+Z16 I@Y4[UQFZOi09bk6]SlI<e1
+Z17 VE;4=AZM0JjhbV5AOckjYH2
+Z18 !s105 Controller_sv_unit
+S1
+R6
+Z19 w1605546851
+Z20 8C:/Users/Daneshvar/Desktop/DLDLab/Exp4/exp_accelerator/modelsim/Controller.sv
+Z21 FC:/Users/Daneshvar/Desktop/DLDLab/Exp4/exp_accelerator/modelsim/Controller.sv
+L0 1
+R10
+r1
+31
+Z22 !s90 -reportprogress|300|-work|work|-sv|C:/Users/Daneshvar/Desktop/DLDLab/Exp4/exp_accelerator/modelsim/Controller.sv|
+R12
+Z23 !s108 1608733570.861000
+Z24 !s107 C:/Users/Daneshvar/Desktop/DLDLab/Exp4/exp_accelerator/modelsim/Controller.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vcounter
+R1
+Z25 !s100 ]JKUag0^zHdR@2HD^eThP1
+Z26 I_LAEWhake[nfHK>DFUBZS3
+Z27 VD>ZHGBO`FLBilAOTHjL@63
+Z28 !s105 Counter_sv_unit
+S1
+R6
+Z29 w1522839153
+Z30 8C:/Users/Daneshvar/Desktop/DLDLab/Exp4/exp_accelerator/modelsim/Counter.sv
+Z31 FC:/Users/Daneshvar/Desktop/DLDLab/Exp4/exp_accelerator/modelsim/Counter.sv
+L0 2
+R10
+r1
+31
+Z32 !s90 -reportprogress|300|-work|work|-sv|C:/Users/Daneshvar/Desktop/DLDLab/Exp4/exp_accelerator/modelsim/Counter.sv|
+R12
+Z33 !s108 1608733570.921000
+Z34 !s107 C:/Users/Daneshvar/Desktop/DLDLab/Exp4/exp_accelerator/modelsim/Counter.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vdatapath
+R1
+Z35 !s100 ONX^k8F[JRIlCX6BRfP651
+Z36 Im2=U@cYdT@4=gQ;>GIF?=2
+Z37 VNl4KO1j8IXWJPzz7ANnnP2
+Z38 !s105 Datapath_sv_unit
+S1
+R6
+Z39 w1531475803
+Z40 8C:/Users/Daneshvar/Desktop/DLDLab/Exp4/exp_accelerator/modelsim/Datapath.sv
+Z41 FC:/Users/Daneshvar/Desktop/DLDLab/Exp4/exp_accelerator/modelsim/Datapath.sv
+L0 1
+R10
+r1
+31
+Z42 !s90 -reportprogress|300|-work|work|-sv|C:/Users/Daneshvar/Desktop/DLDLab/Exp4/exp_accelerator/modelsim/Datapath.sv|
+R12
+Z43 !s108 1608733570.979000
+Z44 !s107 C:/Users/Daneshvar/Desktop/DLDLab/Exp4/exp_accelerator/modelsim/Datapath.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vexponential
+R1
+Z45 !s100 Eij;cAGk@:::P@3gFOL4:3
+Z46 Igb0@Po1hV^=^8d^RMPdhN2
+Z47 V==8=M@z8E6URNKP0g4HFV1
+Z48 !s105 exponential_sv_unit
+S1
+R6
+Z49 w1531475362
+Z50 8C:/Users/Daneshvar/Desktop/DLDLab/Exp4/exp_accelerator/modelsim/exponential.sv
+Z51 FC:/Users/Daneshvar/Desktop/DLDLab/Exp4/exp_accelerator/modelsim/exponential.sv
+L0 1
+R10
+r1
+31
+Z52 !s90 -reportprogress|300|-work|work|-sv|C:/Users/Daneshvar/Desktop/DLDLab/Exp4/exp_accelerator/modelsim/exponential.sv|
+R12
+Z53 !s108 1608733571.037000
+Z54 !s107 C:/Users/Daneshvar/Desktop/DLDLab/Exp4/exp_accelerator/modelsim/exponential.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vexptest
+R1
+!i10b 1
+Z55 !s100 SVeaED_OZ0Mcjm=M=PIhP1
+Z56 IZdgzEWCb3zN[1dG0ZLGj_0
+Z57 VBh=acPg9a:2H8DVNPiF6<1
+Z58 !s105 test_sv_unit
+S1
+R6
+Z59 w1608483702
+Z60 8C:/Users/Daneshvar/Desktop/DLDLab/Exp4/exp_accelerator/modelsim/test.sv
+Z61 FC:/Users/Daneshvar/Desktop/DLDLab/Exp4/exp_accelerator/modelsim/test.sv
+L0 2
+R10
+r1
+!s85 0
+31
+!s108 1608733573.069000
+!s107 C:/Users/Daneshvar/Desktop/DLDLab/Exp4/exp_accelerator/modelsim/test.sv|
+Z62 !s90 -reportprogress|300|-work|work|-sv|C:/Users/Daneshvar/Desktop/DLDLab/Exp4/exp_accelerator/modelsim/test.sv|
+!s101 -O0
+R12
+vLUT
+R1
+Z63 !s100 P2RiK8X4Ic`j_=:Po?Zjh1
+Z64 IX;X3l>hz3O9S_mDJ?:jbj1
+Z65 Vh7kg2cEEBCi[=5oM4L;0S3
+Z66 !s105 LUTExp_sv_unit
+S1
+R6
+Z67 w1531474067
+Z68 8C:/Users/Daneshvar/Desktop/DLDLab/Exp4/exp_accelerator/modelsim/LUTExp.sv
+Z69 FC:/Users/Daneshvar/Desktop/DLDLab/Exp4/exp_accelerator/modelsim/LUTExp.sv
+L0 1
+R10
+r1
+31
+Z70 !s90 -reportprogress|300|-work|work|-sv|C:/Users/Daneshvar/Desktop/DLDLab/Exp4/exp_accelerator/modelsim/LUTExp.sv|
+R12
+Z71 n@l@u@t
+Z72 !s108 1608733571.093000
+Z73 !s107 C:/Users/Daneshvar/Desktop/DLDLab/Exp4/exp_accelerator/modelsim/LUTExp.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vmultiplier
+R1
+Z74 !s100 >kz@]Xz244;3a>f9Z5E<H1
+Z75 IN::<S=f7EkQzPF2>`bYTg0
+Z76 VH:6SEC``QL31]mIH0HHiV1
+Z77 !s105 multiplier_sv_unit
+S1
+R6
+Z78 w1522837718
+Z79 8C:/Users/Daneshvar/Desktop/DLDLab/Exp4/exp_accelerator/modelsim/multiplier.sv
+Z80 FC:/Users/Daneshvar/Desktop/DLDLab/Exp4/exp_accelerator/modelsim/multiplier.sv
+L0 2
+R10
+r1
+31
+Z81 !s90 -reportprogress|300|-work|work|-sv|C:/Users/Daneshvar/Desktop/DLDLab/Exp4/exp_accelerator/modelsim/multiplier.sv|
+R12
+Z82 !s108 1608733571.151000
+Z83 !s107 C:/Users/Daneshvar/Desktop/DLDLab/Exp4/exp_accelerator/modelsim/multiplier.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux2to1
+R1
+Z84 !s100 m46H7fMB>TkM9LIb=T]A63
+Z85 I>`5hPcM<MU8XD5PNPmmI;1
+Z86 V>M@I<QgBEE>P@>dOPjF]V3
+Z87 !s105 mux2to1_sv_unit
+S1
+R6
+Z88 w1523043523
+Z89 8C:/Users/Daneshvar/Desktop/DLDLab/Exp4/exp_accelerator/modelsim/mux2to1.sv
+Z90 FC:/Users/Daneshvar/Desktop/DLDLab/Exp4/exp_accelerator/modelsim/mux2to1.sv
+L0 2
+R10
+r1
+31
+Z91 !s90 -reportprogress|300|-work|work|-sv|C:/Users/Daneshvar/Desktop/DLDLab/Exp4/exp_accelerator/modelsim/mux2to1.sv|
+R12
+Z92 !s108 1608733571.211000
+Z93 !s107 C:/Users/Daneshvar/Desktop/DLDLab/Exp4/exp_accelerator/modelsim/mux2to1.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vregister
+R1
+Z94 !s100 E7CSN?[4]gS?ZE]ANdlV43
+Z95 IC>]ORPoHjhJIfUBC9L[`m1
+Z96 VbD9C:0UbIhUB?^a:7EYYh2
+Z97 !s105 register_sv_unit
+S1
+R6
+Z98 w1522993590
+Z99 8C:/Users/Daneshvar/Desktop/DLDLab/Exp4/exp_accelerator/modelsim/register.sv
+Z100 FC:/Users/Daneshvar/Desktop/DLDLab/Exp4/exp_accelerator/modelsim/register.sv
+L0 2
+R10
+r1
+31
+Z101 !s90 -reportprogress|300|-work|work|-sv|C:/Users/Daneshvar/Desktop/DLDLab/Exp4/exp_accelerator/modelsim/register.sv|
+R12
+Z102 !s108 1608733572.947000
+Z103 !s107 C:/Users/Daneshvar/Desktop/DLDLab/Exp4/exp_accelerator/modelsim/register.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vregister18
+R1
+Z104 !s100 jCUdF=TD<z;JCOKjnbn9X0
+Z105 INQm>TCK2RAYFf9<U^Hk6l3
+Z106 V8BhoY;<lI<5_07X=bBL@m0
+Z107 !s105 register18_sv_unit
+S1
+R6
+Z108 w1522993613
+Z109 8C:/Users/Daneshvar/Desktop/DLDLab/Exp4/exp_accelerator/modelsim/register18.sv
+Z110 FC:/Users/Daneshvar/Desktop/DLDLab/Exp4/exp_accelerator/modelsim/register18.sv
+L0 2
+R10
+r1
+31
+Z111 !s90 -reportprogress|300|-work|work|-sv|C:/Users/Daneshvar/Desktop/DLDLab/Exp4/exp_accelerator/modelsim/register18.sv|
+R12
+!i10b 1
+!s85 0
+Z112 !s108 1608733573.008000
+Z113 !s107 C:/Users/Daneshvar/Desktop/DLDLab/Exp4/exp_accelerator/modelsim/register18.sv|
+!s101 -O0

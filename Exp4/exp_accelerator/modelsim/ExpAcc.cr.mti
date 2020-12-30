@@ -1,0 +1,78 @@
+C:/Users/Daneshvar/Desktop/DLDLab/Exp4/exp_accelerator/modelsim/register.sv {1 {vlog -work work -sv C:/Users/Daneshvar/Desktop/DLDLab/Exp4/exp_accelerator/modelsim/register.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module register
+
+Top level modules:
+	register
+
+} {} {}} C:/Users/Daneshvar/Desktop/DLDLab/Exp4/exp_accelerator/modelsim/LUTExp.sv {1 {vlog -work work -sv C:/Users/Daneshvar/Desktop/DLDLab/Exp4/exp_accelerator/modelsim/LUTExp.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module LUT
+
+Top level modules:
+	LUT
+
+} {} {}} C:/Users/Daneshvar/Desktop/DLDLab/Exp4/exp_accelerator/modelsim/register18.sv {1 {vlog -work work -sv C:/Users/Daneshvar/Desktop/DLDLab/Exp4/exp_accelerator/modelsim/register18.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module register18
+
+Top level modules:
+	register18
+
+} {} {}} C:/Users/Daneshvar/Desktop/DLDLab/Exp4/exp_accelerator/modelsim/Datapath.sv {1 {vlog -work work -sv C:/Users/Daneshvar/Desktop/DLDLab/Exp4/exp_accelerator/modelsim/Datapath.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module datapath
+
+Top level modules:
+	datapath
+
+} {} {}} C:/Users/Daneshvar/Desktop/DLDLab/Exp4/exp_accelerator/modelsim/multiplier.sv {1 {vlog -work work -sv C:/Users/Daneshvar/Desktop/DLDLab/Exp4/exp_accelerator/modelsim/multiplier.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module multiplier
+
+Top level modules:
+	multiplier
+
+} {} {}} C:/Users/Daneshvar/Desktop/DLDLab/Exp4/exp_accelerator/modelsim/exponential.sv {1 {vlog -work work -sv C:/Users/Daneshvar/Desktop/DLDLab/Exp4/exp_accelerator/modelsim/exponential.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module exponential
+
+Top level modules:
+	exponential
+
+} {} {}} C:/Users/Daneshvar/Desktop/DLDLab/Exp4/exp_accelerator/modelsim/adder.sv {1 {vlog -work work -sv C:/Users/Daneshvar/Desktop/DLDLab/Exp4/exp_accelerator/modelsim/adder.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module adder
+
+Top level modules:
+	adder
+
+} {} {}} C:/Users/Daneshvar/Desktop/DLDLab/Exp4/exp_accelerator/modelsim/Controller.sv {1 {vlog -work work -sv C:/Users/Daneshvar/Desktop/DLDLab/Exp4/exp_accelerator/modelsim/Controller.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} C:/Users/Daneshvar/Desktop/DLDLab/Exp4/exp_accelerator/modelsim/Counter.sv {1 {vlog -work work -sv C:/Users/Daneshvar/Desktop/DLDLab/Exp4/exp_accelerator/modelsim/Counter.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module counter
+
+Top level modules:
+	counter
+
+} {} {}} C:/Users/Daneshvar/Desktop/DLDLab/Exp4/exp_accelerator/modelsim/mux2to1.sv {1 {vlog -work work -sv C:/Users/Daneshvar/Desktop/DLDLab/Exp4/exp_accelerator/modelsim/mux2to1.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mux2to1
+
+Top level modules:
+	mux2to1
+
+} {} {}} C:/Users/Daneshvar/Desktop/DLDLab/Exp4/exp_accelerator/modelsim/test.sv {1 {vlog -work work -sv C:/Users/Daneshvar/Desktop/DLDLab/Exp4/exp_accelerator/modelsim/test.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module exptest
+
+Top level modules:
+	exptest
+
+} {} {}}
